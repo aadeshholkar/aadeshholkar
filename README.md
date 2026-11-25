@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adesh Holkar
 
-💻 Full Stack Developer | Android App Developer | GenAI Enthusiast | 🚀 Problem Solver  
+💻 Full Stack Developer | GenAI Enthusiast | 🚀 Problem Solver  
 🎓 PICT-2026, GPA-2023
 
 ---
